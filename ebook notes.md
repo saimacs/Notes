@@ -1,4 +1,4 @@
-Creating an ebook
+# Creating an ebook
 
 Use pandoc to convert markdown (.md) file to ebook (.epub)
 pandoc yourfilename.md -o mybook.epub
