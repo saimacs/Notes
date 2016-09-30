@@ -28,5 +28,7 @@ http://garyhall.org.uk/create-ebook-command-line.html
 
 https://rachelandrew.co.uk/archives/2014/01/07/html-epub-mobi-pdf-wtf-creating-an-ebook/
 
+https://github.com/k2052/markdown-to-ebook
+
 
 
