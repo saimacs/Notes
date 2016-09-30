@@ -11,14 +11,20 @@ Convert to amazon's .mobi format:
 
     kindlegen mybook.epub 
     
-## Cover Image for the ebook
+### Cover Image for the ebook
 
     pandoc yourfilename.md -o --epub-cover-image=cover.jpg myebook.epub
 
 
-## CSS to style the ebook
+### CSS to style the ebook
 
 
-## metadata for the ebook
+### Metadata for the ebook
+
+### References
+http://pandoc.org/epub.html
+http://garyhall.org.uk/create-ebook-command-line.html
+https://rachelandrew.co.uk/archives/2014/01/07/html-epub-mobi-pdf-wtf-creating-an-ebook/
+
 
 
