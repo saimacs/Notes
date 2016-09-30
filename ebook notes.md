@@ -23,7 +23,9 @@ Convert to amazon's .mobi format:
 
 ### References
 http://pandoc.org/epub.html
+
 http://garyhall.org.uk/create-ebook-command-line.html
+
 https://rachelandrew.co.uk/archives/2014/01/07/html-epub-mobi-pdf-wtf-creating-an-ebook/
 
 
